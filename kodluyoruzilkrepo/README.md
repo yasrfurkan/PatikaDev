@@ -3,7 +3,7 @@
 Kodluyoruz İlk Repo
 Bu Repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
-<img src="![348281523_191542193375967_1073117477406694231_n](https://github.com/yasrfurkan/PatikaDev/assets/143843950/45bea961-f4d5-40df-8625-8661555d7154" alt="alt text" width="320" height="180">
+<img src="![348281523_191542193375967_1073117477406694231_n]" alt="alt text" width="320" height="180">
 
 Installation
 Öncelikle projeyi clonelayın.
