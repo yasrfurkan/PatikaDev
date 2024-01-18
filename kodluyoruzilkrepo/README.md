@@ -3,7 +3,7 @@
 Kodluyoruz İlk Repo
 Bu Repo Kodluyoruz Front-End Eğitiminde oluşturduğumuz ilk repo. İçerisinde bir adet README dosyası, bir adet index.html barındırıyor.
 
-<img src="https://github.com/yasrfurkan/PatikaDev/raw/assets/143843950/9c7892c1-a0d9-409a-8243-4ee105292222" alt="alternatif metin" width="320" height="180">
+<img src="![348281523_191542193375967_1073117477406694231_n](https://github.com/yasrfurkan/PatikaDev/assets/143843950/9c7892c1-a0d9-409a-8243-4ee105292222)" width="320" height="180">
 
 
 Installation
